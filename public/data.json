@@ -1,0 +1,87 @@
+[
+    {
+        "id": 0,
+        "firstname": "Siddharth",
+        "lastname": "Sharma",
+        "email": "sidxyz@gmail.com",
+        "phone": "+91 9620427268"
+    },
+    {
+        "id": 1,
+        "firstname": "Rohan",
+        "lastname": "Sharma",
+        "email": "rohanxyz@gmail.com",
+        "phone": "+91 9120224268"
+    },
+    {
+       "id": 2,
+        "firstname": "Rahul",
+        "lastname": "Tondon",
+        "email": "rahulxyz@gmail.com",
+        "phone": "+91 9129425268"
+    },
+    {
+        "id": 3,
+        "firstname": "Rachit",
+        "lastname": "Kapoor",
+        "email": "rachitxyz@gmail.com",
+        "phone": "+91 9810421268"
+    },
+    {
+        "id": 4,
+        "firstname": "Karan",
+        "lastname": "Manocha",
+        "email": "karanxyz@gmail.com",
+        "phone": "+91 9710456278"
+    },
+    {
+        "id": 5,
+        "firstname": "Parth",
+        "lastname": "Samthan",
+        "email": "parthxyz@gmail.com",
+        "phone": "+91 9600407968"
+    },
+    {
+        "id": 6,
+        "firstname": "Adarsh",
+        "lastname": "Sharma",
+        "email": "adarshxyz@gmail.com",
+        "phone": "+91 9910427168"
+    },
+    {
+        "id": 7,
+        "firstname": "Ritwik",
+        "lastname": "Malhotra",
+        "email": "ritwikxyz@gmail.com",
+        "phone": "+91 9500002042"
+    },
+    {
+        "id": 8,
+        "firstname": "Param",
+        "lastname": "Sahota",
+        "email": "paramxyz@gmail.com",
+        "phone": "+91 9122042721"
+    },
+    {
+        "id": 9,
+        "firstname": "Simba",
+        "lastname": "Goel",
+        "email": "simbaxyz@gmail.com",
+        "phone": "+91 9812309823"
+    },
+    {
+        "id": 10,
+        "firstname": "Tarun",
+        "lastname": "Aggarwal",
+        "email": "tarunxyz@gmail.com",
+        "phone": "+91 9212345622"
+    },
+    {
+        "id": 11,
+        "firstname": "Aakash",
+        "lastname": "Dhulia",
+        "email": "aakashxyz@gmail.com",
+        "phone": "+91 91239817368"
+    }
+    
+]
